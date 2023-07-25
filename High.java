@@ -24,4 +24,6 @@ public class High {
         }
 
         System.out.println("The largest number is: " + largest);
+
+        System.out.println("Edited file");
     }
